@@ -1,7 +1,7 @@
 
 By day I'm a sysadmin managing risk 24/7. What kind of risk? Financial risk, reputation risk and operational risk... Everything.
 
-I architect, implement, administer and troubleshoot services, servers and infrastructure devices (local and cloud-based). I have a love for elegant solutions, especially if I can solve them with Powershell!
+I architect, implement, administer and troubleshoot services, servers and infrastructure devices (local and cloud-based). I have a love for elegant solutions, and Powershell!
 
 Technologies & Tools
 https://img.shields.io/static/v1?color=steelblue&style=flat&logo=windows&label=OS&message=Windows%20Server
