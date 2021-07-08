@@ -1,5 +1,5 @@
 
-By day I'm a sysadmin managing risk 24/7. What kind of risk? Financial risk, reputation risk and operational risk... Everything.
+By day I'm a sysadmin managing risk 24/7. What kind of risk? Financial risk, reputation risk and operational risk... actually, it's pretty much everything.
 
 I architect, implement, administer and troubleshoot services, servers and infrastructure devices (local and cloud-based). I have a love for elegant solutions, and Powershell!
 
