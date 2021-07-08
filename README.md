@@ -5,5 +5,3 @@ I architect, implement, administer and troubleshoot services, servers and infras
 
 ## Technologies & Tools ##  
 ![](https://img.shields.io/static/v1?color=steelblue&style=flat&logo=windows&label=OS&message=Windows%20Server) ![](https://img.shields.io/static/v1?color=steelblue&style=flat&logo=powershell&label=Script&message=Powershell&logocolor=white) ![](https://img.shields.io/static/v1?color=steelblue&style=flat&logo=windowsterminal&label=Terminal&message=Windows%20Terminal) ![](https://img.shields.io/static/v1?color=steelblue&style=flat&logo=visual%20studio%20code&label=Code&message=VS%20Code)
-
-I write about things I am familiar with, things I'm learning, and the things that I've had to understand to help others understand.
